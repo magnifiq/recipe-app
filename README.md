@@ -1,3 +1,9 @@
+# The recipe app 
+
+--The purpose of the project is to enhance skills in React and JavaScript. Also, it is aimed to learn how to work with API requests.  
+
+--The last version was released in 18/12/2022
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
